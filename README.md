@@ -1,9 +1,7 @@
 # Fake News Detection
----
-title: Fake News XGBoost Classifier
+
 author: Kamila Kolpashnikova
-date: today
----
+
 
 ## Project Overview
 Fake news became a critical problem in today’s political and social life. Disinformation continues to feed intolerance and polarize our societies. In the age of information wars and foreign meddling in domestic politics through online disinformation, it is important to develop tools and strategies for how to sift through fake and potentially harmful online content. 

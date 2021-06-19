@@ -35,6 +35,7 @@ The XGBoost Classifier model resulted in 99.53% accuracy. Here is the resulting 
 
 ## Repo Files
 - CapstoneProject.ipynb -- contains jupyter notebook of the project results
+- CapstoneProject.html -- jupyter notebook html output
 - CapstoneProject.pdf -- description of the project and its results
 - proposal.pdf -- the submitted proposal for the project
 - img (folder) -- contains the figure with the final model's confusion matrix

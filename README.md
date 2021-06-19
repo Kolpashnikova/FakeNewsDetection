@@ -41,13 +41,13 @@ The XGBoost Classifier model resulted in 99.53% accuracy. Here is the resulting 
 - img (folder) -- contains the figure with the final model's confusion matrix
 
 ## Python Packages used:
-- pandas
-- numpy
-- neattext
-- matplotlib
-- seaborn
-- wordcloud
-- sklearn
-- nltk
-- re
-- xgboost
+- [pandas](https://pandas.pydata.org)
+- [numpy](https://numpy.org)
+- [neattext](https://pypi.org/project/neattext/)
+- [matplotlib](https://matplotlib.org)
+- [seaborn](https://seaborn.pydata.org)
+- [wordcloud](https://pypi.org/project/wordcloud/)
+- [sklearn](https://scikit-learn.org/stable/)
+- [nltk](https://www.nltk.org)
+- [re](https://docs.python.org/3/library/re.html)
+- [xgboost](https://xgboost.readthedocs.io/en/latest/python/python_intro.html)

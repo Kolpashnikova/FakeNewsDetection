@@ -39,3 +39,15 @@ The XGBoost Classifier model resulted in 99.53% accuracy. Here is the resulting 
 - CapstoneProject.pdf -- description of the project and its results
 - proposal.pdf -- the submitted proposal for the project
 - img (folder) -- contains the figure with the final model's confusion matrix
+
+## Python Packages used:
+- pandas
+- numpy
+- neattext
+- matplotlib
+- seaborn
+- wordcloud
+- sklearn
+- nltk
+- re
+- xgboost
